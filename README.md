@@ -1,10 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there!;I'm+Matt!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,github,idea)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,java" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,idea" />
+  </a>
+</p>
 
-</p>
 
 <!--
 **mawimmer/mawimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
