@@ -6,12 +6,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,java" />
+    <img src="https://skillicons.dev/icons?i=js,idea,java" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,idea" />
+    <img src="https://skillicons.dev/icons?i=discord,github" />
   </a>
 </p>
 
